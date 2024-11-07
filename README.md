@@ -28,5 +28,6 @@ Follow these steps to get the project up and running locally.
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/pringleshowboi/WAF
+cd WAF
+python app.py
